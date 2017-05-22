@@ -2,7 +2,7 @@ export default {
   MAX_ATTACHMENT_SIZE: 5000000,
   s3: {
     //YOUR AWS S3 BUCKET NAME
-    BUCKET: 'notes-app-uploads-vf'
+    BUCKET: ''
   },
   apiGateway: {
     //EG.: https://lambdaname.execute-api.region.amazonaws.com/dev
